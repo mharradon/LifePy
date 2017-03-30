@@ -8,5 +8,5 @@ func = LifePy('getStr','getStr')
 print("Change the getStr function while test is running. It won't update if an exception is thrown by the function or on import.")
 
 while True:
-  print func()
+  print(func())
   sleep(0.5)
