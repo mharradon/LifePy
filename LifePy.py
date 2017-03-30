@@ -1,5 +1,4 @@
 import imp
-import pdb
 
 class LifePy(object):
   def __init__(self,module_name,func_name):
