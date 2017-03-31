@@ -1,2 +1,2 @@
 def getStr():
-  return '123459832489'
+  return 'hello'
